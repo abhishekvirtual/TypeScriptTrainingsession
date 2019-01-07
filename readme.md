@@ -1,1 +1,1 @@
-#welcom to tarning session with typescript
+# welcome to typescript

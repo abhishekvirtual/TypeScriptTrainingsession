@@ -1,0 +1,36 @@
+{
+  "name": "TypeScriptTrainingsession",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhishekvirtual/TypeScriptTrainingsession.git"
+  },
+  "keywords": [],
+  "author": "abverma901@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhishekvirtual/TypeScriptTrainingsession/issues"
+  },
+  "homepage": "https://github.com/abhishekvirtual/TypeScriptTrainingsession#readme",
+  "devDependencies": {
+    "@types/node": "^10.12.18",
+    "browser-sync": "^2.26.3",
+    "del": "^3.0.0",
+    "gulp": "^4.0.0",
+    "gulp-babel": "^8.0.0",
+    "typescript": "^3.2.2",
+    "vinyl-paths": "^2.1.0"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "mongojs": "^2.6.0",
+    "mongoose": "^5.4.2"
+  }
+}

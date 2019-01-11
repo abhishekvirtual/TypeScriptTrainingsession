@@ -13,7 +13,7 @@ module.exports = {
     mode: 'development',
     devtool:'inline-source-map',
     entry:[
-    path.resolve(__dirname,'TypeScriptNotes','app','index.ts')
+    path.resolve(__dirname,'TypeScriptNotes','app','app.ts')
     //  path:path.resolve(__dirname,'TypeScriptNotes','app'),
     //  publicPath:'/',
     //  filename:'index.ts'

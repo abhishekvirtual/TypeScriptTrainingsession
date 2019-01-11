@@ -6,7 +6,6 @@ import * as util from './lib/utilityFunctions';
 function PrintBookInfo(item:Book):void{
     console.log(`${item.title} was authored by ${item.author}`);
 }
-
 let [book1,book2,...restbooks] = util.GetAllBooks(); 
 
 // function logFavoritBooks([book1,book2,...restbooks]:Book[]){
